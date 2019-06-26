@@ -1,3 +1,5 @@
 {
-  "intervalo": "25"
+  "intervalo": {
+    "valor": "25"
+  }
 }
